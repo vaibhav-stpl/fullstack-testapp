@@ -1,20 +1,17 @@
-This project was bootstrapped with Create React App.
 
-Available Scripts
-In the project directory, you can run:
+## This project was bootstrapped with Create React App !
 
-use node version > 12
+### use node version > 12
 
-Install packages
+### Navigate to /Client folder
 
-npm install
-'For start both server for fake data and reactJS'
+Run command: `npm install`
 
-Navigate to testTask/server folder and run:
-npm run dev
+### Navigate back to root folder i.e. testTask and run:
+Run command: `npm install`
 
-'credentials for login'
-email: trader@trader.com  password: trader
+`now we are done installing dependencies`
 
-'credentials for signup'
-email: test@gmail.com  password: test
+### To run the project:
+Run Command: `npm run dev`
+`This spins up client at localhost:3000 & server at localhost:3001`
